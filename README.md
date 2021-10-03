@@ -35,3 +35,6 @@ function add(x,y) {return x + y;}
 [용인예술과학대학](http://www.ysc.ac.kr)
 
 ![이미지 연습](https://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg)
+
+![이미지 연습2](./images/test.png)
+
